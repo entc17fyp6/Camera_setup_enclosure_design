@@ -1,7 +1,7 @@
 ﻿"base_thickness"= 2
 "front_thickness"= 2
 "back_offset"= 1.5
-"base_side_offset"= 1
+"base_side_offset"= 0.2
 "hole_inner_radius"=2
 "snap_fit_thickness"= 2
 "hole_outer_radius"= 6
