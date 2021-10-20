@@ -1,7 +1,7 @@
 ﻿"base_thickness"= 2
 "front_thickness"= 2
 "back_offset"= 1.5
-"base_side_offset"= 0.2
+"base_side_offset"= 1
 "hole_inner_radius"=2
 "snap_fit_thickness"= 2
 "hole_outer_radius"= 6
@@ -13,3 +13,4 @@
 "snap_fit_base_length"= 5.5
 "snap_fit_front_length"= 7
 "snap_fit_height"= 0.9
+"snap_fit_front_length_wide_cam"= 8
