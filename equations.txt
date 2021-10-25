@@ -1,10 +1,10 @@
 ﻿"base_thickness"= 2
 "front_thickness"= 2
-"back_offset"= 1.5
+"back_offset"= 6.5
 "base_side_offset"= 0.5
 "hole_inner_radius"=2
 "snap_fit_thickness"= 2
-"hole_outer_radius"= 6
+"hole_outer_radius"= 5.4
 "base_enclosure_camera_gap"= 1
 "camera_front_enclosure_gap"= 4
 "usb_hole_width"= 9
