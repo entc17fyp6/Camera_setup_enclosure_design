@@ -1,4 +1,4 @@
-﻿"base_thickness"= 3
+﻿"base_thickness"= 2
 "front_thickness"= 2
 "back_offset"= 6.5
 "base_side_offset"= 0.5
