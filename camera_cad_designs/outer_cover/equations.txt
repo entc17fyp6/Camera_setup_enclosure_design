@@ -1,10 +1,10 @@
-﻿"base_thickness"= 2
+﻿"base_thickness"= 3
 "front_thickness"= 2
-"back_offset"= 1.5
-"base_side_offset"= 1
+"back_offset"= 6.5
+"base_side_offset"= 0.5
 "hole_inner_radius"=2
 "snap_fit_thickness"= 2
-"hole_outer_radius"= 6
+"hole_outer_radius"= 5.4
 "base_enclosure_camera_gap"= 1
 "camera_front_enclosure_gap"= 4
 "usb_hole_width"= 9
@@ -12,10 +12,11 @@
 "snap_fit_width"= 6
 "snap_fit_base_length"= 5.5
 "snap_fit_front_length"= 7
-"snap_fit_height"= 0.9
+"snap_fit_height"= 0.6
 "snap_fit_front_length_wide_cam"= 8
 "outer_enclosure_offset"= 0.2
 "thread_insert_d_outer_enclosure"= 5'outer inclosure thread insert diameter
 "screw_d_outer_enclousre"= 3.5'diameter of screw outer enclosure
 "thread_insert_h_outer_enclosure"= 5'outer enclosure thread insert height
 "screw_h_outer_enclosure"= 23'outer_enclosure_screw_height
+"outer_enclosure_thickness"= 2
