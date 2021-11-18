@@ -5,13 +5,13 @@
   
  
  ## Hand sketches
- ![Hand sketch of outer enclosure](/../main/images/hand_drawings/outer_enclosure_design.jpg)
+ ![Hand sketch of outer enclosure]<img src=/../main/images/hand_drawings/outer_enclosure_design.jpg width="400" height="790">
  
  ## Finalized Cad design of outer enclosure
  
- ![Cad design of outer enclosure](https://github.com/entc17fyp6/Camera_setup_enclosure_design/blob/main/images/cad_design.png)
+ ![Cad design of outer enclosure](/../main/images/cad_design.png)
  
  ## 3d printed model
  
- ![3d printed design](https://github.com/entc17fyp6/Camera_setup_enclosure_design/blob/main/images/3d_printed_design.jpg)
+ ![3d printed design](/.../main/images/3d_printed_design.jpg)
  
