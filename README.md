@@ -5,7 +5,7 @@
   
  
  ## Hand sketches
- ![Hand sketch of outer enclosure]<img src=/../main/images/hand_drawings/outer_enclosure_design.jpg width="500" height="570">
+ ![]<img src=/../main/images/hand_drawings/outer_enclosure_design.jpg width="500" height="570">
  
  ## Finalized Cad design of outer enclosure
  
@@ -13,5 +13,5 @@
  
  ## 3d printed model
  
- ![3d printed design](/.../main/images/3d_printed_design.jpg)
+ ![3d printed design](/../main/images/3d_printed_design.jpg)
  
