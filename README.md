@@ -14,4 +14,8 @@
  ## 3d printed model
  
  ![3d printed design](/../main/images/3d_printed_design.jpg)
+
+ ## Mounted in a vehicle
+
+ ![mounted inside vehicle](/../main/images/mounted_in_vehicle.jpg)
  
