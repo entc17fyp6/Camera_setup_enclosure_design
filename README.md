@@ -5,7 +5,7 @@
   
  
  ## Hand sketches
- ![Hand sketch of outer enclosure](https://github.com/entc17fyp6/Camera_setup_enclosure_design/blob/main/images/hand_drawings/outer_enclosure_design.jpg)
+ ![Hand sketch of outer enclosure](/../main/images/hand_drawings/outer_enclosure_design.jpg)
  
  ## Finalized Cad design of outer enclosure
  
